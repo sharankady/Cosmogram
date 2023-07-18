@@ -1,6 +1,6 @@
 import React from 'react'
 import Card from './Card'
-import './Carditems.css'
+import './CardItems.css'
 
 export default function CardItems({image,title,explanation,date,copyright}) {
 
