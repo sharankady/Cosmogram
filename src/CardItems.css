@@ -1,0 +1,6 @@
+.carditems{
+    display: inline-block;
+    align-items: stretch;
+    justify-content: space-evenly;
+    margin: 15px ;
+}
